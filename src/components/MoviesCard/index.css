@@ -1,0 +1,9 @@
+.movie-item {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 48px;
+  width: 350px;
+
+  margin-right: 20px;
+  flex-wrap: wrap;
+}
